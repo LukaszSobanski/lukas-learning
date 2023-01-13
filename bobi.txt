@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 some content
 hello
+=======
+hi whos there
+>>>>>>> main
