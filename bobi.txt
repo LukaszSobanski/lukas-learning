@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 some content
 hello
 =======
+hi whos there
+>>>>>>> main
+=======
+some content
+hello
 hi whos there
 >>>>>>> main
